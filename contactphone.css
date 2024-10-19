@@ -17,10 +17,17 @@
     display: none;
 }
 
+body {
+
+    height: 100%;
+    width: 100%;
+}
+
 
 main {
 
     width: 100%;
+    height: 100%;
 }
 
 .btnbackmain {
@@ -53,22 +60,23 @@ main {
 
 .boxleft {
 
-    height: 200px;
+    height: 100%;
     width: 100%;
-    padding: 20px;
+    padding: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
     row-gap: 20px;
     justify-content: center;
     margin: 0px;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-bottom: 150px;
 
 }
 
 .box11 {
 
-    height: 60px;
+    height: 50px;
     width: 95%;
     background-color: white;
     border-radius: 3px;
@@ -139,6 +147,7 @@ main {
     font-weight: 400;
     color: white;
     margin-bottom: 10px;
+    margin-top: 40px;
 }
 
 footer {
@@ -151,7 +160,7 @@ footer {
     background-color: rgb(26, 26, 26);
     color: white;
     border-top: 1px solid rgba(255, 255, 255, 0.159);
-    margin-top: 110px;
+    margin-top: 0px;
 }
 
 .footer-text {
