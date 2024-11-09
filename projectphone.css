@@ -47,6 +47,7 @@ main {
     row-gap: 20px;
     display: flex;
     flex-direction: column;
+    margin-bottom: 0px;
 }
 
 .htext h3 {

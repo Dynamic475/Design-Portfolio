@@ -443,13 +443,13 @@ ul li a:hover {
     width: 100%;
     object-fit: cover;
     scale: 1px;
-    transform: scale(1.1);
+    transform: scale(1);
     transition: 0.5s;
 }
 
 .box4 img:hover {
 
-    transform: scale(1.3);
+    transform: scale(1.1);
    
 }
 
