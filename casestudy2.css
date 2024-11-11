@@ -212,6 +212,29 @@ main {
         color: rgb(132, 132, 132);
     }
 
+    
+.btn {
+   
+    margin-top: 30px;
+    
+ }
+
+    .btn button {
+
+    padding: 15px 30px 15px 30px;
+    font-size: 0.9rem;
+    background-color: black;
+    border: 1px solid #767676;
+    color: white;
+    transition: 0.3s ease-in;
+    cursor: pointer;
+
+}
+
+.btn button:hover {
+
+        border: 1px solid yellowgreen;
+}
 
     
     footer {
