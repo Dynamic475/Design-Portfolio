@@ -161,6 +161,7 @@ main {
         height: 350px;
         width: calc(50% - 10px);
         background-color: rgb(52, 52, 52);
+        border-radius: 10px;
         overflow: hidden;
 
     }
